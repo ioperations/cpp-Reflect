@@ -1,0 +1,62 @@
+[
+  {
+    "directory": "/home/tablinux/prj/cpp-reflect/cpp-Reflect/Reflector",
+    "arguments": [
+      "g++",
+      "-I.",
+      "-c",
+      "-o",
+      "Allen.o",
+      "Allen.cpp"
+    ],
+    "file": "Allen.cpp"
+  },
+  {
+    "directory": "/home/tablinux/prj/cpp-reflect/cpp-Reflect/Reflector",
+    "arguments": [
+      "g++",
+      "-I.",
+      "-c",
+      "-o",
+      "Luffy.o",
+      "Luffy.cpp"
+    ],
+    "file": "Luffy.cpp"
+  },
+  {
+    "directory": "/home/tablinux/prj/cpp-reflect/cpp-Reflect/Reflector",
+    "arguments": [
+      "g++",
+      "-I.",
+      "-c",
+      "-o",
+      "Person.o",
+      "Person.cpp"
+    ],
+    "file": "Person.cpp"
+  },
+  {
+    "directory": "/home/tablinux/prj/cpp-reflect/cpp-Reflect/Reflector",
+    "arguments": [
+      "g++",
+      "-I.",
+      "-c",
+      "-o",
+      "Reflector.o",
+      "Reflector.cpp"
+    ],
+    "file": "Reflector.cpp"
+  },
+  {
+    "directory": "/home/tablinux/prj/cpp-reflect/cpp-Reflect/Reflector",
+    "arguments": [
+      "g++",
+      "-I.",
+      "-c",
+      "-o",
+      "ReflectorMain.o",
+      "ReflectorMain.cpp"
+    ],
+    "file": "ReflectorMain.cpp"
+  }
+]
